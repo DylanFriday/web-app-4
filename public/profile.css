@@ -22,8 +22,8 @@ header {
 
 } 
 
-.about {
+section {
     background-color: green;
-    font : 10px blue;
+    color : blue;
     padding: 20px;
 }
